@@ -76,6 +76,30 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源"
+    },
+    "lovedan": {
+      "api": "https://lovedan.net/api.php/provide/vod",
+      "name": "艾旦资源"
+    },
+    "piaoling": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "飘零资源"
+    },
+    "tiankong": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
+      "name": "天空资源"
+    },
+    "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速博资源"
+    },
+    "hw8": {
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "name": "华为吧"
     }
   }
 }
